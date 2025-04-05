@@ -1,0 +1,15 @@
+# Ignorar arquivos de sistema, como cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar arquivos do Git
+.git/
+.gitignore
+
+# Ignorar arquivos do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar arquivos temporários
+*.log
+*.bak
